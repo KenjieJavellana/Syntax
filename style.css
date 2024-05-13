@@ -1,0 +1,38 @@
+body{
+  background-image: url();
+  
+*{
+  padding: 0;
+  margin: 0;
+  font-family: monospace;
+}
+  h1{
+    background-color: #333;
+    color:#fff;
+    text-align: center;
+    border-radius: 30px;
+}
+  nav {
+    background-color:;
+    padding: 20px 0; 
+    color:#fff;
+            }
+ul {
+  list-style: none;
+  background: skyblue;
+  background-image: url(/storage/emulated/0/DCIM/Camera/I);
+}
+ul li {
+  display: inline-block;
+  position: relative;
+
+}
+display: block;
+}
+- 
+ul li a:hover {
+  background: #112C66;
+}
+ul li:hover ul.dropdown {
+  display: block;
+}
